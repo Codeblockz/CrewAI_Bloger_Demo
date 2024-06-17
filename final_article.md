@@ -1,6 +1,5 @@
 my best complete final answer to the task.
 
-```markdown
 # Building a Simple Blog Writing Crew with CrewAI
 
 Creating high-quality blog content efficiently is a challenge many writers face. CrewAI offers an innovative solution by leveraging AI agents to streamline the writing process. This tutorial will guide you through building a simple blog writing crew using CrewAI, ensuring you can harness the power of AI to produce engaging and well-researched blog posts.
@@ -149,6 +148,6 @@ By following this guide, you can efficiently set up and operate your blog writin
 
 3. **Clarity and Readability**:
    - Minor adjustments for improved readability and clarity.
-```
+
 
 This blog post is now proofread for grammatical errors and has plenty of content with a balanced structure, making it ready for publication.
