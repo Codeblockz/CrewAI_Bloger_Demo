@@ -1,1 +1,1 @@
-The repo for CrewAI Bloger I made. Read about it [here](https://medium.com/@ryan.a.ellis.1/a-blog-about-a-crew-ai-crew-that-writes-about-a-crew-ai-crew-writing-a-blog-e85628159808).
+The repo for CrewAI Bloger I made. Read about it [here](https://medium.com/@ryan.a.ellis.1/a-blog-about-a-crew-ai-crew-that-writes-about-a-crew-ai-crew-writing-a-blog-e85628159808). This repo contains a simple jyputer notebook that uses the crewAI framework to create blogs. It does this by scraping the web then writing the article. When done, the article is outputed in markdown format.
